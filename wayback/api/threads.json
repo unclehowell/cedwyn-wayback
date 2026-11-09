@@ -1,8 +1,8 @@
 {
  "title": "Great House Farm / Ty Mawr case correspondence (Wayback)",
  "apiVersion": "1.0.0",
- "generated": "2026-11-08T03:49:45Z",
- "count": 1054,
+ "generated": "2026-11-09T18:41:31Z",
+ "count": 1056,
  "threadCount": 575,
  "privacy": "Email addresses, phone numbers, the family's private address, postcodes and meeting joining details are redacted. Officials appear by name or role.",
  "endpoints": {
@@ -13,6 +13,41 @@
   "text": "/mail/<id>.txt"
  },
  "threads": [
+  {
+   "threadId": "gt-1a1149d647cb33dc",
+   "subject": "Scrutiny Topic Suggestion / Task and Finish request — Council-held planning, heritage and public-authority record for Great House Farm / Tÿ Mawr, Llandough",
+   "threadSlug": "scrutiny-topic-suggestion-task-and-finish-request-council-held-planning-heritage",
+   "institutions": [
+    "vale-foi",
+    "vale-scrutiny"
+   ],
+   "first": "2026-10-10T19:15:29Z",
+   "last": "2026-11-09T12:40:21Z",
+   "count": 8,
+   "messageIds": [
+    "gm-1a1273de327c97d5",
+    "gm-1a12ad2c5353945c",
+    "gm-1a15f094419c7eee",
+    "gm-1a162f0c37aaddcc",
+    "gm-1a164d6dc2533d83",
+    "gm-1a17774f4bd25728",
+    "gm-1a19e70b2dc61efe",
+    "gm-1a1c052f7688432e"
+   ]
+  },
+  {
+   "threadId": "gt-1a19a741b92b5972",
+   "subject": "Aerial photography search - Llandough-juxta-Penarth / Leckwith, Vale of Glamorgan (1940–1995)",
+   "threadSlug": "aerial-photography-search-llandough-juxta-penarth-leckwith-vale-of-glamorgan-194",
+   "institutions": [],
+   "first": "2026-11-02T22:51:11Z",
+   "last": "2026-11-09T10:40:08Z",
+   "count": 2,
+   "messageIds": [
+    "gm-1a19e759fc38bfa3",
+    "gm-1a1bfe4f1d5ed589"
+   ]
+  },
   {
    "threadId": "gt-1a19b940a6795379",
    "subject": "Records enquiry - Glamorgan County Naturalists' Trust site files for Llandough-juxta-Penarth and Leckwith, 1961–2002",
@@ -676,18 +711,6 @@
    ]
   },
   {
-   "threadId": "gt-1a19a741b92b5972",
-   "subject": "Aerial photography search - Llandough-juxta-Penarth / Leckwith, Vale of Glamorgan (1940–1995)",
-   "threadSlug": "aerial-photography-search-llandough-juxta-penarth-leckwith-vale-of-glamorgan-194",
-   "institutions": [],
-   "first": "2026-11-02T22:51:11Z",
-   "last": "2026-11-02T22:51:11Z",
-   "count": 1,
-   "messageIds": [
-    "gm-1a19e759fc38bfa3"
-   ]
-  },
-  {
    "threadId": "gt-1a19a74671be8382",
    "subject": "Casework archive enquiry - Tŷ Mawr (Great House Farm), Llandough-juxta-Penarth, demolished 1988",
    "threadSlug": "casework-archive-enquiry-ty-mawr-great-house-farm-llandough-juxta-penarth-demoli",
@@ -759,27 +782,6 @@
    "count": 1,
    "messageIds": [
     "gm-1a19e70d5fe53b8f"
-   ]
-  },
-  {
-   "threadId": "gt-1a1149d647cb33dc",
-   "subject": "Scrutiny Topic Suggestion / Task and Finish request — Council-held planning, heritage and public-authority record for Great House Farm / Tÿ Mawr, Llandough",
-   "threadSlug": "scrutiny-topic-suggestion-task-and-finish-request-council-held-planning-heritage",
-   "institutions": [
-    "vale-foi",
-    "vale-scrutiny"
-   ],
-   "first": "2026-10-10T19:15:29Z",
-   "last": "2026-11-02T22:45:48Z",
-   "count": 7,
-   "messageIds": [
-    "gm-1a1273de327c97d5",
-    "gm-1a12ad2c5353945c",
-    "gm-1a15f094419c7eee",
-    "gm-1a162f0c37aaddcc",
-    "gm-1a164d6dc2533d83",
-    "gm-1a17774f4bd25728",
-    "gm-1a19e70b2dc61efe"
    ]
   },
   {
