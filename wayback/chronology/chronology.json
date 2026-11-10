@@ -1,12 +1,12 @@
 {
  "name": "Great House Farm (Tŷ Mawr), Llandough-juxta-Penarth — central case chronology",
- "version": "1.56.0",
- "updated_utc": "2026-11-08T00:45Z",
- "count": 659,
+ "version": "1.57.0",
+ "updated_utc": "2026-11-10T21:55Z",
+ "count": 660,
  "by_category": {
   "heritage": 123,
   "press": 166,
-  "history": 64,
+  "history": 65,
   "legal": 135,
   "social": 5,
   "title": 94,
@@ -19,7 +19,7 @@
   "csscpsg-legal": 140,
   "dartboard-archaeology": 23,
   "roadmap": 64,
-  "spill": 87
+  "spill": 88
  },
  "sources": {
   "wiki-master-timeline": "https://greathousefarmwiki.wordpress.com/timeline/",
@@ -2729,6 +2729,20 @@
    "sort": "1971-00-00",
    "id": "CH-0154",
    "date_display": "1971"
+  },
+  {
+   "date": "1971",
+   "event": "Ordnance Survey 1:2500 sheet ST1673-ST1773 (Ed. AB, published 1971) is the earliest OS sheet found that reads “Ty Mawr Farm”; the name sits over the yard, about 40 m west of its 1947 position. The 1965 1:10,560 sheet still reads “Ty-mawr”; the 1974 1:10,000 sheet reads “Ty Mawr Farm”.",
+   "source": "Ordnance Survey 1:2500 ST1673-ST1773 Ed. AB (NLS 188701083); 1:10,560 ST 17 SE 1965 (NLS 189240603); 1:10,000 ST 17 SE 1974 (NLS 189240600)",
+   "url": "https://maps.nls.uk/view/188701083",
+   "wayback": "",
+   "evidence": "EV-2047",
+   "origin": "spill",
+   "category": "history",
+   "sort": "1971-00-00",
+   "id": "CH-0684",
+   "date_display": "1971 (surveyed 1953, revised 1969)",
+   "spill": "SP-00128"
   },
   {
    "date": "1972",
@@ -8412,6 +8426,14 @@
   }
  ],
  "changelog": [
+  {
+   "version": "1.57.0",
+   "date": "2026-11-10",
+   "change": "Added CH-0684 (1971 (surveyed 1953, revised 1969)): Ordnance Survey 1:2500 sheet ST1673-ST1773 (Ed. AB, published 1971) is the earliest OS sheet found that reads “Ty Mawr Farm”; the name sits  [spill SP-00128]",
+   "size": "660 events",
+   "price": "free",
+   "who": "Tab agent (spill processor)"
+  },
   {
    "version": "1.56.0",
    "date": "2026-11-08",
