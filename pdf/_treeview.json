@@ -703,5 +703,17 @@
       "sar",
       "gdpr"
     ]
+  },
+  {
+    "name": "2026-10-13_llandough-community-council_agenda-22-october-2026",
+    "path": "pdf/evidence/2026-10-13_llandough-community-council_agenda-22-october-2026.pdf",
+    "_links": {
+      "html": "pdf/evidence/2026-10-13_llandough-community-council_agenda-22-october-2026.pdf"
+    },
+    "tags": [
+      "lcc",
+      "agenda",
+      "ghf"
+    ]
   }
 ]
