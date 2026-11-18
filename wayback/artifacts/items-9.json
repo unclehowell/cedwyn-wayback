@@ -466,6 +466,40 @@
    },
    "added": "2026-10-24",
    "note": "Copied to wayback on 24 Oct 2026 from the repository copy the Legal Wiki links to (https://raw.githubusercontent.com/unclehowell/datro/wayback/images/1897-00-00%20-%20Marconi%20Wireless%20Telegraph%20at%20Great%20House%20Farm%20-%20EN%20-%20V0.0.0.12.jpg), ahead of the wiki's retirement. File unchanged. Cited on the wiki at https://greathousefarmwiki.wordpress.com/media-gallery/ (page 912)."
+  },
+  {
+   "id": "WB-0914",
+   "ev": null,
+   "keys": [
+    "ADS Llandough CADW 2004"
+   ],
+   "title": "Archaeology Data Service: The Early Medieval Monastic Cemetery at Llandough, Glamorgan (CADW 2004 digital archive landing page)",
+   "date": "date unknown",
+   "date_sort": "0000-00-00",
+   "date_basis": "unknown",
+   "type": "catalogue-entry",
+   "status": "SOURCE PENDING",
+   "source": {
+    "kind": "web",
+    "url": "https://archaeologydataservice.ac.uk/archives/view/llandough_cadw_2004/index.cfm",
+    "reference": "Exact ADS landing page; separate associated PDF has an 8 Feb 2020 first-seen Wayback capture, not attributed to this page."
+   },
+   "institution": "Archaeology Data Service",
+   "files": [],
+   "people": [],
+   "parcels": [
+    "Llandough"
+   ],
+   "wiki": null,
+   "duplicate_of": null,
+   "supersedes": null,
+   "pending": {
+    "held_by": "Archaeology Data Service / Internet Archive",
+    "route": "Exact landing page returned HTTP 520 to the Watchtower Save Page Now request on 18 Nov 2026; earliest Wayback CDX timestamp for this exact URL not yet confirmed.",
+    "cost": null
+   },
+   "added": "2026-11-18",
+   "note": "Catalogue lead only; no preserved copy or checksum is held here yet. Keep the landing page separate from the associated PDF capture first seen on 8 Feb 2020. Watchtower monitors this exact URL and will record a capture timestamp if a later Save Page Now request succeeds."
   }
  ]
 }
