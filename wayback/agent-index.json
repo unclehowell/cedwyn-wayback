@@ -43,6 +43,11 @@
       "path": "/video/_treeview.json",
       "title": "Public video archive index",
       "type": "json"
+    },
+    {
+      "path": "/websites/index.json",
+      "title": "Local copies of external website pages and version index",
+      "type": "json"
     }
   ],
   "resources": [

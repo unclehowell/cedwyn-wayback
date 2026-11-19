@@ -1,0 +1,28 @@
+{
+  "url": "https://canfod.glamarchives.gov.uk/records/DB/E/1-8/1-2",
+  "key": "canfod.glamarchives.gov.uk/records/DB/E/1-8/1-2",
+  "title": "David Stewart’s 1824 Glamorgan estate survey — Plan 19, Llandough (DB/E/1-2)",
+  "host": "canfod.glamarchives.gov.uk",
+  "path": "/websites/canfod.glamarchives.gov.uk/records-db-e-1-8-1-2/",
+  "latest": "/websites/canfod.glamarchives.gov.uk/records-db-e-1-8-1-2/latest.html",
+  "first_captured": "2026-11-19T20:25:00Z",
+  "last_captured": "2026-11-19T20:25:00Z",
+  "current_version": "v1.0.0",
+  "versions": [
+    {
+      "version": "v1.0.0",
+      "change": "first",
+      "captured_utc": "2026-11-19T20:25:00Z",
+      "capture_source": "catalogue-text-extraction",
+      "mode": "text",
+      "text_sha256": "746827bfed5ac4301542e41afaf12df92653018a3e424f8ccf7d2365d52b4650",
+      "markup_sha256": "2e184b8654840630e22fc4752830c287be845f51eabb3a81029a970522d8cdc9",
+      "file": "v1.0.0.html",
+      "screenshot": null,
+      "from": "https://canfod.glamarchives.gov.uk/records/DB/E/1-8/1-2"
+    }
+  ],
+  "versioning": "first local text-preservation copy v1.0.0; readable-text change = minor; markup/layout-only change = patch; identical extraction = no new version",
+  "watch_status": "Internet Archive capture pending; exact source URL added to Watchtower",
+  "note": "This is a full text-preservation copy of the readable Canfod catalogue page content, extracted on 19 November 2026. It is not a facsimile of the original catalogue HTML or manuscript survey; embedded images and original page layout are not reproduced. The Internet Archive history link is retained, but no successful Wayback timestamp has been confirmed."
+}
