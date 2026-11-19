@@ -1,7 +1,7 @@
 ## [0.15.0] - 2026-11-19
 
 ### Added
-- Local text-preservation copy of Glamorgan Archives' Canfod catalogue record DB/E/1-8/1-2, the 1824 David Stewart survey entry covering Plan 19 in Llandough: `/websites/canfod.glamarchives.gov.uk/records-db-e-1-8-1-2/latest.html` (v1.0.0, readable catalogue text extracted 19 Nov 2026). The exact entry 19 wording is preserved as returned by the readable catalogue extraction: “Cedfin alias Ty Mawr farm; in Llandough.” This is explicitly a text-preservation copy, not a facsimile of the original catalogue HTML or manuscript Plan 19. No Internet Archive capture timestamp is claimed; the Wayback history link is included and the exact source URL is monitored by Watchtower.
+- Local text-preservation copy of the full readable Canfod catalogue page for Glamorgan Archives DB/E/1-2, the 1824 David Stewart survey, including the complete contents list and entry 19 (“Cedfin alias Ty Mawr farm; in Llandough”): `/websites/canfod.glamarchives.gov.uk/records-db-e-1-8-1-2/latest.html` (v1.0.0, text extracted 19 Nov 2026). This is not a facsimile of the original catalogue HTML, embedded images or manuscript Plan 19. No Internet Archive capture timestamp is claimed; the Wayback history link is included and the exact source URL is monitored by Watchtower.
 
 ## Unreleased - 2026-10-31
 
