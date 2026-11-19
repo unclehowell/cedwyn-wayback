@@ -500,6 +500,44 @@
    },
    "added": "2026-11-18",
    "note": "Catalogue lead only; no preserved copy or checksum is held here yet. Keep the landing page separate from the associated PDF capture first seen on 8 Feb 2020. Watchtower monitors this exact URL and will record a capture timestamp if a later Save Page Now request succeeds."
+  },
+  {
+   "id": "WB-0915",
+   "ev": null,
+   "keys": [
+    "Glamorgan Archives DB/E/1-8/1-2"
+   ],
+   "title": "David Stewart’s 1824 survey — Plan 19, Cedfin (Ty Mawr farm), Llandough — Glamorgan Archives catalogue record",
+   "date": "1824",
+   "date_sort": "1824-01-01",
+   "date_basis": "catalogue",
+   "type": "catalogue-entry",
+   "status": "CATALOGUE ENTRY",
+   "source": {
+    "kind": "archive",
+    "url": "https://canfod.glamarchives.gov.uk/en/records/DB/E/1-8/1-2",
+    "reference": "Glamorgan Archives Canfod catalogue record DB/E/1-8/1-2; Internet Archive capture supplied 19 Nov 2026."
+   },
+   "institution": "Glamorgan Archives",
+   "files": [],
+   "people": [
+    "David Stewart"
+   ],
+   "parcels": [
+    "Llandough",
+    "Ty Mawr",
+    "Cedfin"
+   ],
+   "wiki": null,
+   "duplicate_of": null,
+   "supersedes": null,
+   "archive_capture": {
+    "provider": "Internet Archive Wayback Machine",
+    "timestamp": "2026-11-19T20:32:10Z",
+    "url": "https://web.archive.org/web/20261119203210/https://canfod.glamarchives.gov.uk/en/records/DB/E/1-8/1-2"
+   },
+   "added": "2026-11-19",
+   "note": "Internet Archive capture of the Canfod catalogue page saved 19 Nov 2026 at 20:32:10 UTC. This preserves the online catalogue record; the underlying 1824 survey plan has not yet been downloaded into the BucklerFamily.estate archive or independently inspected."
   }
  ]
 }
