@@ -15,8 +15,8 @@
       "captured_utc": "2026-11-19T20:25:00Z",
       "capture_source": "catalogue-text-extraction",
       "mode": "text",
-      "text_sha256": "7308c6ff516eb3161aaab4e7e65e7fc59730a61251cc6907afb708c7d9933a70",
-      "markup_sha256": "fbfcd7ef1f59c22bbc76073e83ecf4407d5404b09a132560554913237e98435b",
+      "text_sha256": "b338d7b568a042feb83a242b3a51aa851baf0f3e4f39ad281805ce3d700047f5",
+      "markup_sha256": "8d61f11dbb964d3bbd634bbf2b4d7c9d42365d46ddf3165d65843a0b9eb1ee09",
       "file": "v1.0.0.html",
       "screenshot": null,
       "from": "https://canfod.glamarchives.gov.uk/records/DB/E/1-8/1-2"
